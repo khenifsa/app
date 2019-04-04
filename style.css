@@ -89,6 +89,12 @@ Auteur :Khenifsa Abderrafiq
 
 
 /* MAIN-CONTAINER */
+.main__featured {
+
+}
+
+
+
 .main__container {
 
 }
@@ -97,7 +103,7 @@ Auteur :Khenifsa Abderrafiq
 
 }
 
-.ads-after-nav {
+.ads-after-header-desktop {
     margin-top: 30px;
 }
 
