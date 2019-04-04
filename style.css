@@ -71,6 +71,7 @@ Auteur :Khenifsa Abderrafiq
     min-width: 13rem;
     padding: 16px 26px;
     border-bottom: 1px solid rgba(20, 30, 40, .2);
+    
 }
 
 
@@ -107,3 +108,8 @@ Auteur :Khenifsa Abderrafiq
     margin-top: 30px;
 }
 
+.cta-header {
+    height: 50px;
+    border: 4px solid #c83e2c;
+    border-bottom: 0;
+}
